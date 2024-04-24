@@ -1,0 +1,37 @@
+.modal-canvas {
+    border-radius: 20px;
+    top: 10%;
+    position: fixed;
+    top: 7.4%; 
+    left: 3%; 
+    width: 54%;
+    height: 45%;
+    
+  }
+  
+  .modal {
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-radius: 20px;
+    transform: translate(-50%, -50%);
+    width: 500px;
+    position: fixed;
+    left: 30%;
+    top: 30%;
+    padding: 25px;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0 0 20px 0 #999;
+  }
+  
+  .modal-close {
+    cursor: pointer;
+    text-align: right;
+  }
+  
+  .video-container {
+    border: 10px;
+    border-radius: 20px;
+  }
+  
+  
